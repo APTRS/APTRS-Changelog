@@ -1,4 +1,4 @@
-# APTRS-Changelog
+# APTRS Changelog
 Version and Change log for APTRS
 
 ## Version 1.0
