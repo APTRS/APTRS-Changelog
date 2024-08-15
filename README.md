@@ -15,11 +15,11 @@ Version and Change log for APTRS
 - Ability to select Project Service type with Ability to add custom service types
 - Ability to select report standards with Ability to add custom report standards
 - Vulnerability Instances can now have its status
-- Support for AWS S3 cloud bucket for media files including vulnerability POC and company log
+- Support for AWS S3 cloud bucket for media files including vulnerability POC and company logo
 - Added User Permissions
 - Added Password change and edit profile for users
 - Support Nessus CSV report parser
-- Removed support for Windows
+- Partial Windows support removed
 - Added docker support
 - Fixed Remote Code execution via File upload vulnerability
 - Fixed SSRF Vulnerability
