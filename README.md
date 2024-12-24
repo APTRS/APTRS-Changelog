@@ -1,6 +1,15 @@
 # APTRS Changelog
 Version and Change log for APTRS
 
+## Version 1.0.1
+- 🚨 Fixed High Severity CVE-2024-56363 SSTI To Code Execution https://github.com/APTRS/APTRS/security/advisories/GHSA-h4w2-hvcg-938j
+- Added CWE Support 
+- Fixed Multiple errors in Frontend
+- Updated Dark Mode in frontend
+- Added Support for Font size in Word Report for CKeditor Fields
+- Fixed error in deleting company; caused error in existing projects
+
+
 ## Version 1.0
 - New Frontend with ViteJS, Thanks to [DJ Scruggs](https://github.com/djscruggs?) for creating a new frontend from scratch
 - Added Rest APIs
