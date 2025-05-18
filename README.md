@@ -17,6 +17,8 @@ Version and Change log for APTRS
 - Project vulnerabilities can be published or unpublished
 
 ### Changes
+- New Internal Dashboard
+- Improved Dark Mode with fixes and consistent implementation across all interfaces
 - Edit profile now prevents both internal users and customer users from editing their email from profile edit
 - Project and Retest now share and align the same status
 - Report Standards are now saved within Project and no longer needed to be selected each time to generate a report
